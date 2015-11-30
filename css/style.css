@@ -1,0 +1,252 @@
+ body {
+	 }
+ .wrapper{
+	 width: 2000px;
+     overflow: hidden;
+}
+
+ /*--------------------- Header --------------------*/ 
+ .menu-top{
+	 background-color: #edeff1;
+	 height:146px;	 
+ }
+ .menu-top img{
+	 float:left;
+	 margin:40px 0 0 400px;
+ }
+ .menu-link{
+	 padding:60px 0 0 950px;
+ }
+ .link li {
+	 overflow: hidden; 
+	 float:left;
+	 font-size: 18px;
+	 padding:10px 20px;
+	 text-align:center;
+	 
+	 
+ }
+ .activ{
+	 border: 1px solid #df5b3e; 
+	 border-radius: 25px;
+	 background:#df5b3e;
+	 color: white;
+ }
+ /*--------------------- content --------------------*/ 
+  .main{
+	 background-image: url(../image/main.jpg); 
+	 height: 1322px;
+	 text-align:center;
+	 color: white;
+  }
+  .main1 {
+	 margin:0 430px; 
+  }
+  .main h1 {
+	  font-size: 72px;
+	  padding-top:486px;
+  }
+  .main  p{
+	 font-size: 30px;
+}
+  .menu-main  li{
+	  overflow: hidden; 
+	  float:left;
+	  margin:120px 20px  0 20px;
+  }
+  .main2 {
+	  overflow: hidden; 
+	  padding:12px 0  0 0;
+	  width: 330px;
+  }
+  .main2  p{
+	   font: 15px/1.5 Myriad Pro, 'New Century Schoolbook', serif;
+	   padding:20px 20px;
+  }
+  .main h3{
+	  padding-top:24px;
+	  font-size:30px;
+  }
+  .main3{
+	 border: 1px solid #fff; 
+	 border-radius: 40px;
+	 background:#fff;
+	 margin:540px 880px;
+	 padding:20px;	
+	 font-size:18px;
+	 color:#764035;
+	 font-size: 18px;
+  }
+  .news3{
+	 border: 1px solid #fff; 
+	 border-radius: 40px;
+	 background:#fff;
+	 margin:40px 110px;
+	 padding:20px;	
+  }
+  .news{
+	 background-color:#edeff1; 
+	  height: 790px;
+	 text-align:center;
+  }
+  .news h2{
+	  font-size: 30px;
+	  padding:80px 0 60px;
+  }
+  .menu-news h3{
+	  padding-top:24px;
+	  font-size:30px;
+  }
+  .menu-news  li{
+	  overflow: hidden; 
+	  float:left;
+	  margin:0 10px  0 10px;
+  }
+  .news1 {
+	 margin:0 380px; 
+  }
+  .news-letter{
+	 background-image: url(../image/foot.jpg);
+	 height:380px; 
+	 text-align:center;
+	 color: white;
+  }  
+  .news-letter h2{
+	 font-size: 30px;
+	 padding:80px 0 22px; 
+  }
+  .news-letter1  p{
+	 text-align:center;
+	 color: white;
+	 font: 18px/1.5 Myriad Pro, 'New Century Schoolbook', serif;
+	 padding:0 676px  100px 676px;
+  } 
+  .news-letter2 {
+	 overflow: hidden;  
+	 border: 1px solid rgba(255, 255, 255, 0.5);
+	 border-radius: 27px;
+	 background-color: rgba(255, 255, 255, 0.2);
+	 margin:0 740px 0 780px;
+	 color:#FFF;
+	 font-size: 18px;
+	 text-align:left;
+	 padding-left:20px;
+  }
+  .otstyp{
+	  float:left;
+	  margin-top:20px;
+  }
+  .news-letter2 span{
+	  overflow: hidden;  
+	 float:right;
+	 border: 1px solid #FFF; 
+	 border-radius: 27px;
+	 background-color:#FFF;
+	 padding:20px  30px;	
+	 color:#764035;
+	 font-size: 18px;
+ }
+  .content{
+	 background-color: #FFF;
+	 height:1018px;	 
+  }
+  .cpusok-content {
+	  margin: 70px 370px 0 370px;
+  }
+  .content1{
+	 padding-bottom:50px;
+  }
+  .content2{
+	  float:right;
+	  padding-right:100px
+  }
+  .content1 h2 {
+	  font-size: 30px; 
+      padding:50px 0 0 20px;	  
+  }
+  .content1 p{
+	  width:530px;
+	  font-size: 16px; 
+      padding:20px;	  
+  } 
+  .contimg1{
+	  float:right;
+  }
+  .content-sign1 {
+	 float:left;
+	 border: 1px solid #dd4b2b; 
+	 border-radius: 27px;
+	 background-color:#dd4b2b;
+	 margin:0 0 20px 30px;
+	 padding:20px 40px  ;	
+	 color:#FFF;
+	 font-size: 18px;
+  }
+  .cpusok-content2 {
+  	padding: 200px 0;
+  }
+  .contimg2{
+	  float:left;
+	    }  
+  .content2 h2{
+	  font-size: 30px; 
+      padding:50px 0 0 0;	  
+  }
+  .content2 p{
+	  width:530px;
+	  font-size: 16px; 
+      padding:20px 0;
+  }
+   
+  .content-sign2 {
+	 float:left;
+	 border: 1px solid #4b4e73; 
+	 border-radius: 27px;
+	 background-color:#4b4e73;
+	 margin:30px 0 0 30px;
+	 padding:20px 40px  ;	
+	 color:#FFF;
+	 font-size: 18px;
+  }
+ /*--------------------- footer  --------------------*/
+
+ .foot {
+	 background-color: #d75d0e;
+	 height:406px;
+ } 
+ .colon{
+	 float:center;
+	 margin-left:270px;
+ }
+ .colon ul{
+	 float:left;
+	 margin-top:75px;
+     margin-left:230px;
+	 text-align:center;
+	 color: white;
+	 font-size: 18px;
+     
+ }
+ .colomn1 ul li,.colomn2 ul li ,.colomn3 ul li{
+	 padding-top:18px;
+ }
+ .copy{
+	 background-image: url(../image/foot.jpg);
+	 height:378px;
+ }
+ .copy p{
+	 text-align:center;
+	 color: white;
+	 font-size: 18px;
+	 padding:100px 676px  242px 676px;
+ }
+ A:link {
+	 text-decoration: none;  
+	 
+ }
+ .sumo-copy {
+	 color:#FFF;
+ }
+ 
+ 
+ 
